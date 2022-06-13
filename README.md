@@ -5,3 +5,6 @@
 - 🌱 I’m currently learning Redux Toolkit
 - 📫 How to reach me: www.linkedin.com/in/barbara-bottazzi
 
+---
+
+### :fire: My Stats :
