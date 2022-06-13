@@ -8,3 +8,4 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=barbiwonderland)](https://git.io/streak-stats)
